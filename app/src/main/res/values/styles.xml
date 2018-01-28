@@ -7,7 +7,7 @@
         <!-- Customize your theme here. -->
         <item name="colorPrimary">#795548</item>
         <item name="colorPrimaryDark">#5D4037</item>
-        <item name="colorAccent">#64DD17</item>
+        <item name="colorAccent">#64dd17</item>
     </style>
 
     <style name="MyCardViewStyle" parent="Theme.AppCompat.Light">
