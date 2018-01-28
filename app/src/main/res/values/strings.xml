@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Baseball Hall of Fame Quiz</string>
+    <string name="buttonText">Submit</string>
+    /* Question 1 */
+    <string name="q1">Who was part of the first class of players elected to the Hall of Fame?</string>
+    <string name="q1a1">Bob Gibson</string>
+    <string name="q1a2">Catfish Hunter</string>
+    <string name="q1a3">Walter Johnson</string> /* correct answer */
+    <string name="q1a4">\"Shoeless\" Joe Jackson</string>
+    /* Question 2 */
+    <string name="q2">Where is the Hall of Fame located?</string>
+    <string name="q2a1">Cooperstown, NY</string> /* correct answer */
+    <string name="q2a2">Tupelo, MS</string>
+    <string name="q2a3">Thousand Oaks, CA</string>
+    <string name="q2a4">Troy, MI</string>
+    /* Question 3 */
+    <string name="q3">Which association is responsible for Hall of Fame voting?</string>
+    <string name="q3a1">NBA</string>
+    <string name="q3a2">BBWAA</string> /* correct answer */
+    <string name="q3a3">NAACP</string>
+    <string name="q3a4">HOFBA</string>
+    /* Question 4 */
+    <string name="q4">What year did the Hall of Fame open?</string>
+    <string name="q4a1">1915</string>
+    <string name="q4a2">1939</string> /* correct answer */
+    <string name="q4a3">1943</string>
+    <string name="q4a4">1956</string>
+    /* Question 5 */
+    <string name="q5">Which of the following players is NOT in the Hall of Fame?</string>
+    <string name="q5a1">Ty Cobb</string>
+    <string name="q5a2">Sandy Koufax</string>
+    <string name="q5a3">Micky Mantle</string>
+    <string name="q5a4">Barry Bonds</string> /* correct answer */
+    /* Question 6 */
+    <string name="q6">Which team has the most players in the Hall of Fame?</string>
+    <string name="q6a1">New York Yankees</string> /* correct answer */
+    /* Question 7 */
+    <string name="q7">Which of the following teams do not have any players in the Hall of Fame?</string>
+    <string name="q7a1">Colorado Rockies</string> /* correct answer */
+    <string name="q7a2">Florida Marlins</string> /* correct answer */
+    <string name="q7a3">Detroit Tigers</string>
+    <string name="q7a4">Cleveland Indians</string>
+
+</resources>
